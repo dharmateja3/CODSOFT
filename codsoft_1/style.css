@@ -28,6 +28,8 @@ nav {
 nav .logo {
     font-size: 1.5rem;
     font-weight: bold;
+    text-decoration: none;
+    color: #fff;
 }
 nav ul {
     list-style: none;
